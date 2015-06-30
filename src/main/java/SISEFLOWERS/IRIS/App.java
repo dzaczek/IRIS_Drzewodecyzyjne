@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         
-fff
+
     	
     		 System.out.println("Check3");
     		 Lab a=new Lab();
